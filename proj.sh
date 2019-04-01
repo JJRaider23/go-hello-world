@@ -1,0 +1,1 @@
+export GOPATH=/home/jason/go/go-hello-world
